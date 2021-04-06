@@ -8,4 +8,3 @@ class TestJenkins:
 
     def test_login3(self):
         print("login3")
-        assert False
